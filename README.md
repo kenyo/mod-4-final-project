@@ -18,7 +18,7 @@ The data was acquired from twitter and relates to tweets from the sxsw festival 
 
 ## Modeling
 
-We created 3 different classification models: Logistic Regression, Naive Bayes, and Random Forest. Ramdom Forest gave us the best F1 score (0.8407). Logistic Regression was next best with and F1 of 0.8103. Naive Bayes was last with 0.8027. 
+We created 3 different classification models: Logistic Regression, Naive Bayes, and Random Forest. These models were trained with a lemmatized version of our features. Random Forest gave us the best F1 score (0.8407). Logistic Regression was next best with and F1 of 0.8103. Naive Bayes was last with 0.8027. 
 
 ## Conclusion
 
