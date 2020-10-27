@@ -1,4 +1,4 @@
-# mod-4-final-project
+# Twitter Sentiment Analysis: Apple and Google
 
 By Lauren Cunningham and Kenny Oh
 
